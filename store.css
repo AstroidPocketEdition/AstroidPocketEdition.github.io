@@ -5,6 +5,5 @@ font-family: 'Mochiy Pop P One', sans-serif;
 font-size: 85px;
 }
 .price {
-width: 85px;
-height: 85px;
+background-color: green;
 }
